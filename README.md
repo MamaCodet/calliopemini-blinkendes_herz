@@ -16,7 +16,4 @@ Die Aktualisierung dieses Bildes kann einige Minuten dauern.
 
 ![Eine gerenderte Ansicht der Blöcke](https://github.com/mamacodet/calliopemini-blinkendes_herz/raw/master/.github/makecode/blocks.png)
 
-#### Metadaten (verwendet für Suche, Rendering)
-
-* for PXT/calliopemini
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+### Viel Spaß! 🙂
